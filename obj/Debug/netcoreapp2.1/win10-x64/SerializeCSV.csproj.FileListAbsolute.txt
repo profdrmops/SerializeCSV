@@ -1,0 +1,14 @@
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\SerializeCSV.exe
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\SerializeCSV.deps.json
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\SerializeCSV.runtimeconfig.json
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\SerializeCSV.runtimeconfig.dev.json
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\SerializeCSV.dll
+D:\Source\SerializeCSV\bin\Debug\netcoreapp2.1\win10-x64\SerializeCSV.pdb
+D:\Source\SerializeCSV\obj\Debug\netcoreapp2.1\win10-x64\SerializeCSV.csprojAssemblyReference.cache
+D:\Source\SerializeCSV\obj\Debug\netcoreapp2.1\win10-x64\SerializeCSV.csproj.CoreCompileInputs.cache
+D:\Source\SerializeCSV\obj\Debug\netcoreapp2.1\win10-x64\SerializeCSV.AssemblyInfoInputs.cache
+D:\Source\SerializeCSV\obj\Debug\netcoreapp2.1\win10-x64\SerializeCSV.AssemblyInfo.cs
+D:\Source\SerializeCSV\obj\Debug\netcoreapp2.1\win10-x64\SerializeCSV.dll
+D:\Source\SerializeCSV\obj\Debug\netcoreapp2.1\win10-x64\SerializeCSV.pdb
